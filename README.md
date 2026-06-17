@@ -1,11 +1,13 @@
 # my-first-project
+# Hi, I'm malik 👋
 
-I am a B.A. Economics student at the University of Calicut.
+🎓 B.A. Economics Student at University of Calicut
 
-## I am currently learning:
-- GitHub
-- LinkedIn
+## Currently Learning
 - Microsoft Excel
+- Python
+- SQL
 - Data Analysis
 
-Thank you for visiting my profile!
+## Career Goal
+To build skills in economics, data analysis, and business while preparing for internships and future career opportunities.
