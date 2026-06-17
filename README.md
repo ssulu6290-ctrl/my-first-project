@@ -1,5 +1,11 @@
 # my-first-project
-# My First GitHub Project
 
-Hello! I am a B.A. Economics student.
-I am learning GitHub and Data Analysis.
+I am a B.A. Economics student at the University of Calicut.
+
+## I am currently learning:
+- GitHub
+- LinkedIn
+- Microsoft Excel
+- Data Analysis
+
+Thank you for visiting my profile!
